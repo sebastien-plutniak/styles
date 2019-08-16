@@ -3,8 +3,8 @@
   <info>
     <title>Revue d'histoire des sciences humaines (French)</title>
     <title-short>RHSH</title-short>
-    <id>http://www.zotero.org/styles/revue-dhistoire-des-sciences-humaines</id>
-    <link href="http://www.zotero.org/styles/revue-dhistoire-des-sciences-humaines" rel="self"/>
+    <id>http://www.zotero.org/styles/revue-d-histoire-des-sciences-humaines</id>
+    <link href="http://www.zotero.org/styles/revue-d-histoire-des-sciences-humaines" rel="self"/>
     <link href="http://www.zotero.org/styles/revue-francaise-de-sociologie" rel="template"/>
     <link href="https://journals.openedition.org/rhsh/1273" rel="documentation"/>
     <author>
@@ -134,7 +134,7 @@
       <key macro="author-last"/>
       <key macro="year-date-short"/>
     </sort>
-    <layout prefix=", " suffix="" delimiter="&#160;; ">
+    <layout suffix="" delimiter="&#160;; ">
       <group delimiter=", ">
         <text macro="author-short"/>
         <text macro="year-date-short"/>
